@@ -1,0 +1,18 @@
+.image {
+  width: 400px;
+  height: 200px;
+  transition-duration: 2s;
+}
+
+.slider-container {
+  text-align: center;
+}
+
+.dot {
+  cursor: pointer;
+  min-height: 15px;
+  min-width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
